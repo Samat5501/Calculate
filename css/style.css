@@ -1,0 +1,13 @@
+body{
+    background: #000;
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
+td button{
+    width: 100%;font-size: 24px;
+}
+#display{
+    text-align: right;
+    width: 200px;
+}
